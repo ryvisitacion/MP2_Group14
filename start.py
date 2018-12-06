@@ -1,0 +1,3 @@
+import menugameover
+
+menugameover.mainMenuScreen()
